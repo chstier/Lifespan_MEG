@@ -1,0 +1,1401 @@
+Subject_ID	Exam_ID	Metric	Freq	Stat	Global
+sub-CC110033	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019287
+sub-CC110037	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020244
+sub-CC110045	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021204
+sub-CC110069	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023575
+sub-CC110087	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019023
+sub-CC110098	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024367
+sub-CC110101	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019028
+sub-CC110126	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.029012
+sub-CC110174	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020150
+sub-CC110182	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017432
+sub-CC110187	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017076
+sub-CC110319	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022802
+sub-CC110411	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021124
+sub-CC110606	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.031856
+sub-CC112141	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022687
+sub-CC120008	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019625
+sub-CC120049	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.026844
+sub-CC120061	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019826
+sub-CC120065	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018961
+sub-CC120120	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017539
+sub-CC120166	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019964
+sub-CC120182	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024495
+sub-CC120218	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018702
+sub-CC120264	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.034123
+sub-CC120276	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021121
+sub-CC120309	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019231
+sub-CC120313	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027033
+sub-CC120319	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020344
+sub-CC120347	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023106
+sub-CC120376	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025510
+sub-CC120409	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.026764
+sub-CC120462	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021072
+sub-CC120469	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019441
+sub-CC120550	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020103
+sub-CC120640	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020003
+sub-CC120727	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025441
+sub-CC120764	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027692
+sub-CC121111	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024839
+sub-CC121144	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017745
+sub-CC121158	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022095
+sub-CC121200	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020021
+sub-CC121317	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020909
+sub-CC121397	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.026929
+sub-CC121411	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023392
+sub-CC121428	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019327
+sub-CC121479	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017723
+sub-CC121685	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.028809
+sub-CC121795	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.036222
+sub-CC122172	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019534
+sub-CC122405	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021046
+sub-CC210023	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018565
+sub-CC210051	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024108
+sub-CC210088	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023692
+sub-CC210124	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.016972
+sub-CC210148	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018693
+sub-CC210172	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023997
+sub-CC210182	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019390
+sub-CC210250	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022815
+sub-CC210422	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.034046
+sub-CC210519	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018781
+sub-CC210617	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018979
+sub-CC210657	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019859
+sub-CC212153	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023598
+sub-CC220107	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022070
+sub-CC220115	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023481
+sub-CC220132	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022551
+sub-CC220151	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023421
+sub-CC220198	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022555
+sub-CC220203	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027452
+sub-CC220223	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021075
+sub-CC220234	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019489
+sub-CC220284	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024045
+sub-CC220323	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018165
+sub-CC220335	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024429
+sub-CC220352	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019009
+sub-CC220372	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.028615
+sub-CC220419	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018370
+sub-CC220506	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020657
+sub-CC220518	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019830
+sub-CC220519	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020965
+sub-CC220535	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.029367
+sub-CC220567	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.028072
+sub-CC220610	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017569
+sub-CC220635	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.030381
+sub-CC220697	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022270
+sub-CC220713	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020903
+sub-CC220828	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020413
+sub-CC220843	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020541
+sub-CC220901	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025686
+sub-CC220920	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.030593
+sub-CC220974	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017868
+sub-CC220999	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020384
+sub-CC221002	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024894
+sub-CC221031	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020770
+sub-CC221033	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.029299
+sub-CC221040	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024537
+sub-CC221054	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020050
+sub-CC221107	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.029469
+sub-CC221209	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020334
+sub-CC221324	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021684
+sub-CC310008	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022659
+sub-CC310051	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025774
+sub-CC310052	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020537
+sub-CC310086	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018976
+sub-CC310129	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025674
+sub-CC310135	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019207
+sub-CC310160	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017715
+sub-CC310203	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017563
+sub-CC310224	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022358
+sub-CC310252	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.026582
+sub-CC310256	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.030620
+sub-CC310331	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023381
+sub-CC310391	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.029198
+sub-CC310397	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025568
+sub-CC310400	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022364
+sub-CC310410	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025281
+sub-CC310414	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017493
+sub-CC310450	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020513
+sub-CC310463	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025635
+sub-CC310473	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024081
+sub-CC312058	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023207
+sub-CC312222	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020217
+sub-CC320002	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021061
+sub-CC320022	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019201
+sub-CC320059	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023404
+sub-CC320088	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018098
+sub-CC320089	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020964
+sub-CC320107	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027511
+sub-CC320109	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022171
+sub-CC320160	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019953
+sub-CC320202	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025063
+sub-CC320206	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018102
+sub-CC320218	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018852
+sub-CC320297	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020561
+sub-CC320325	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021167
+sub-CC320342	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022115
+sub-CC320461	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024623
+sub-CC320478	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020079
+sub-CC320500	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019791
+sub-CC320553	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027357
+sub-CC320568	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018582
+sub-CC320574	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022397
+sub-CC320575	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022894
+sub-CC320608	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023528
+sub-CC320621	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025262
+sub-CC320661	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023539
+sub-CC320686	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022024
+sub-CC320687	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.030880
+sub-CC320698	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.033245
+sub-CC320759	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021784
+sub-CC410015	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022045
+sub-CC410032	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022430
+sub-CC410040	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027719
+sub-CC410084	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023357
+sub-CC410086	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019870
+sub-CC410091	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023993
+sub-CC410101	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022863
+sub-CC410113	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024478
+sub-CC410121	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020378
+sub-CC410129	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018456
+sub-CC410169	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023952
+sub-CC410173	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020173
+sub-CC410177	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020560
+sub-CC410179	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021029
+sub-CC410220	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018202
+sub-CC410222	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021700
+sub-CC410243	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023212
+sub-CC410248	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022502
+sub-CC410284	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020942
+sub-CC410287	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022008
+sub-CC410297	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024790
+sub-CC410323	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019397
+sub-CC410325	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018055
+sub-CC410354	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019459
+sub-CC410387	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018747
+sub-CC410390	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018985
+sub-CC410432	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021667
+sub-CC412004	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017584
+sub-CC412021	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024680
+sub-CC420004	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021081
+sub-CC420060	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022326
+sub-CC420075	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020804
+sub-CC420089	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019900
+sub-CC420091	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018002
+sub-CC420100	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027266
+sub-CC420137	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024586
+sub-CC420143	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019217
+sub-CC420148	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027530
+sub-CC420149	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.029987
+sub-CC420157	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027398
+sub-CC420162	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020374
+sub-CC420167	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020853
+sub-CC420173	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022900
+sub-CC420180	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.026007
+sub-CC420182	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022860
+sub-CC420202	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019490
+sub-CC420204	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023374
+sub-CC420222	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020469
+sub-CC420229	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020991
+sub-CC420261	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022246
+sub-CC510076	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.028479
+sub-CC510161	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017820
+sub-CC510163	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024393
+sub-CC510208	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.030807
+sub-CC510220	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022623
+sub-CC510226	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017979
+sub-CC510237	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025548
+sub-CC510242	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020404
+sub-CC510243	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025886
+sub-CC510255	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.032055
+sub-CC510258	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025124
+sub-CC510259	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024504
+sub-CC510284	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018182
+sub-CC510304	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024489
+sub-CC510323	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021475
+sub-CC510329	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.028124
+sub-CC510342	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025891
+sub-CC510354	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021747
+sub-CC510355	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018874
+sub-CC510392	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.029471
+sub-CC510395	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.029244
+sub-CC510415	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.035298
+sub-CC510433	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024771
+sub-CC510434	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019919
+sub-CC510438	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.028757
+sub-CC510473	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023496
+sub-CC510483	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018727
+sub-CC510486	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020371
+sub-CC510534	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018509
+sub-CC510548	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022698
+sub-CC510551	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022028
+sub-CC510609	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022621
+sub-CC510629	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021127
+sub-CC510639	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019033
+sub-CC510648	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.029396
+sub-CC520002	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025320
+sub-CC520011	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018789
+sub-CC520013	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019110
+sub-CC520042	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024877
+sub-CC520055	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027022
+sub-CC520065	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024153
+sub-CC520083	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020383
+sub-CC520097	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022931
+sub-CC520127	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019609
+sub-CC520134	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024030
+sub-CC520136	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023366
+sub-CC520147	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024480
+sub-CC520168	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018421
+sub-CC520200	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019571
+sub-CC520209	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017278
+sub-CC610022	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017563
+sub-CC610028	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024175
+sub-CC610039	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021766
+sub-CC610040	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021514
+sub-CC610046	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024522
+sub-CC610050	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.032524
+sub-CC610052	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019782
+sub-CC610058	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019283
+sub-CC610061	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019321
+sub-CC610071	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018895
+sub-CC610099	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020764
+sub-CC610101	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025442
+sub-CC610146	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022934
+sub-CC610178	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027507
+sub-CC610210	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.036200
+sub-CC610212	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020847
+sub-CC610227	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024786
+sub-CC610288	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024204
+sub-CC610292	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.031720
+sub-CC610344	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019075
+sub-CC610372	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023160
+sub-CC610392	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.028658
+sub-CC610469	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017913
+sub-CC610496	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027312
+sub-CC610508	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025023
+sub-CC610568	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025583
+sub-CC610575	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017483
+sub-CC610576	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018086
+sub-CC610594	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023398
+sub-CC610625	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021025
+sub-CC610653	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.028451
+sub-CC610671	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.015659
+sub-CC620005	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018020
+sub-CC620085	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027084
+sub-CC620090	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.026839
+sub-CC620106	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017697
+sub-CC620114	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022051
+sub-CC620118	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.033784
+sub-CC620121	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019190
+sub-CC620129	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018551
+sub-CC620152	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.031546
+sub-CC620164	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019183
+sub-CC620259	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020171
+sub-CC620279	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024598
+sub-CC620406	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.033926
+sub-CC620413	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.027038
+sub-CC620429	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020312
+sub-CC620479	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017567
+sub-CC620499	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022858
+sub-CC620785	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021959
+sub-CC710037	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018458
+sub-CC710154	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021859
+sub-CC710214	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024232
+sub-CC710313	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025754
+sub-CC710342	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019715
+sub-CC710382	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.030063
+sub-CC710462	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021797
+sub-CC710486	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024584
+sub-CC710548	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020313
+sub-CC710566	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022107
+sub-CC710591	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022292
+sub-CC710664	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020754
+sub-CC710982	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020995
+sub-CC711035	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018554
+sub-CC711128	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022871
+sub-CC711158	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020281
+sub-CC711245	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023628
+sub-CC712027	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.033907
+sub-CC720023	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025762
+sub-CC720071	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019719
+sub-CC720103	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.030155
+sub-CC720119	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.026699
+sub-CC720188	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021110
+sub-CC720304	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023827
+sub-CC720358	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.031663
+sub-CC720400	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.020033
+sub-CC720407	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.023459
+sub-CC720497	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021479
+sub-CC720511	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021761
+sub-CC720516	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019970
+sub-CC720622	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018906
+sub-CC720646	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022939
+sub-CC720670	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.019812
+sub-CC720685	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.026567
+sub-CC721114	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021933
+sub-CC721224	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.028344
+sub-CC721291	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.018277
+sub-CC721292	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.021598
+sub-CC721374	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.026111
+sub-CC721392	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.029720
+sub-CC721418	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017984
+sub-CC721434	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025215
+sub-CC721504	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022254
+sub-CC721519	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.024440
+sub-CC721532	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.017257
+sub-CC721585	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.030497
+sub-CC721707	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.025124
+sub-CC721894	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.030751
+sub-CC722542	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.032325
+sub-CC722651	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Theta	abs_mean	0.022318
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					

@@ -1,0 +1,13 @@
+#fskey name n-vertices hemi
+10 Left-Thalamus-Proper 50 1 6
+11 Left-Caudate 25 1 2
+12 Left-Putamen 40 1 2
+13 Left-Pallidum 10 1 1
+17 Left-Hippocampus 30 1 2
+18 Left-Amygdala 12 1 2
+49 Right-Thalamus-Proper 50 2 6
+50 Right-Caudate 25 2 2
+51 Right-Putamen 40 2 2
+52 Right-Pallidum 10 2 1
+53 Right-Hippocampus 30 2 2
+54 Right-Amygdala 12 2 2

@@ -1,0 +1,1401 @@
+Subject_ID	Exam_ID	Metric	Freq	Stat	Global
+sub-CC110033	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.126386e-10
+sub-CC110037	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.735852e-10
+sub-CC110045	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.268204e-10
+sub-CC110069	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.632823e-10
+sub-CC110087	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.160698e-10
+sub-CC110098	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.162833e-09
+sub-CC110101	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.293844e-10
+sub-CC110126	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.997657e-10
+sub-CC110174	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.968800e-10
+sub-CC110182	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.658478e-10
+sub-CC110187	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.176754e-10
+sub-CC110319	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.649940e-10
+sub-CC110411	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.587054e-10
+sub-CC110606	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.445845e-09
+sub-CC112141	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.697330e-10
+sub-CC120008	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.582099e-10
+sub-CC120049	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.234874e-10
+sub-CC120061	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.211411e-10
+sub-CC120065	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.883707e-10
+sub-CC120120	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.818085e-10
+sub-CC120166	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.151985e-10
+sub-CC120182	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.882390e-10
+sub-CC120218	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.708265e-10
+sub-CC120264	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.787360e-09
+sub-CC120276	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.012064e-10
+sub-CC120309	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.731744e-10
+sub-CC120313	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.899896e-10
+sub-CC120319	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.284332e-10
+sub-CC120347	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.891376e-10
+sub-CC120376	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.810677e-10
+sub-CC120409	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.854739e-10
+sub-CC120462	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.727720e-10
+sub-CC120469	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.929950e-10
+sub-CC120550	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.720148e-10
+sub-CC120640	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.934413e-10
+sub-CC120727	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.455840e-10
+sub-CC120764	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.217757e-09
+sub-CC121111	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	8.833873e-10
+sub-CC121144	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.153540e-10
+sub-CC121158	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.499744e-10
+sub-CC121200	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.411378e-10
+sub-CC121317	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.878502e-10
+sub-CC121397	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.168938e-10
+sub-CC121411	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.200877e-10
+sub-CC121428	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.881030e-10
+sub-CC121479	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.359532e-10
+sub-CC121685	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.329155e-09
+sub-CC121795	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.717245e-09
+sub-CC122172	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.792796e-10
+sub-CC122405	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.461436e-10
+sub-CC210023	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.657798e-10
+sub-CC210051	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.800256e-10
+sub-CC210088	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.409021e-10
+sub-CC210124	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.883386e-10
+sub-CC210148	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.705072e-10
+sub-CC210172	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.997453e-10
+sub-CC210182	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.002864e-10
+sub-CC210250	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	8.003517e-10
+sub-CC210422	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	9.254521e-10
+sub-CC210519	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.666684e-10
+sub-CC210617	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.847866e-10
+sub-CC210657	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.370281e-10
+sub-CC212153	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.152646e-10
+sub-CC220107	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.837450e-10
+sub-CC220115	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.142250e-10
+sub-CC220132	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.778426e-10
+sub-CC220151	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.920060e-10
+sub-CC220198	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.116198e-10
+sub-CC220203	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.591472e-10
+sub-CC220223	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.276390e-10
+sub-CC220234	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.966994e-10
+sub-CC220284	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.766472e-10
+sub-CC220323	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.435177e-10
+sub-CC220335	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.355538e-10
+sub-CC220352	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.557075e-10
+sub-CC220372	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.238926e-09
+sub-CC220419	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.277710e-10
+sub-CC220506	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.517259e-10
+sub-CC220518	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.485680e-10
+sub-CC220519	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.960689e-10
+sub-CC220535	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	8.019376e-10
+sub-CC220567	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.292691e-09
+sub-CC220610	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.365218e-10
+sub-CC220635	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.327808e-10
+sub-CC220697	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.434933e-10
+sub-CC220713	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.505462e-10
+sub-CC220828	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.321303e-10
+sub-CC220843	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.176951e-10
+sub-CC220901	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.882444e-10
+sub-CC220920	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.006597e-10
+sub-CC220974	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.796200e-10
+sub-CC220999	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.588817e-10
+sub-CC221002	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.496805e-10
+sub-CC221031	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.329358e-10
+sub-CC221033	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.308380e-10
+sub-CC221040	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.365696e-10
+sub-CC221054	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.410908e-10
+sub-CC221107	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.513651e-09
+sub-CC221209	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.401426e-10
+sub-CC221324	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.527120e-10
+sub-CC310008	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.465047e-10
+sub-CC310051	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.659041e-10
+sub-CC310052	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.648983e-10
+sub-CC310086	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.452156e-10
+sub-CC310129	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	9.853908e-10
+sub-CC310135	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.931852e-10
+sub-CC310160	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.555222e-10
+sub-CC310203	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.464795e-10
+sub-CC310224	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.666528e-10
+sub-CC310252	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.278955e-09
+sub-CC310256	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.134834e-09
+sub-CC310331	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.403908e-10
+sub-CC310391	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.126253e-10
+sub-CC310397	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.095942e-09
+sub-CC310400	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.485642e-10
+sub-CC310410	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.835533e-10
+sub-CC310414	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.176558e-10
+sub-CC310450	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.798195e-10
+sub-CC310463	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.652407e-10
+sub-CC310473	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.073094e-10
+sub-CC312058	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.784972e-10
+sub-CC312222	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.608329e-10
+sub-CC320002	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.531955e-10
+sub-CC320022	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.007600e-10
+sub-CC320059	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.584694e-10
+sub-CC320088	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.346868e-10
+sub-CC320089	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.837234e-10
+sub-CC320107	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.145288e-10
+sub-CC320109	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.257981e-10
+sub-CC320160	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.137627e-10
+sub-CC320202	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	8.969531e-10
+sub-CC320206	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.093471e-10
+sub-CC320218	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.496489e-10
+sub-CC320297	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.817192e-10
+sub-CC320325	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.457605e-10
+sub-CC320342	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.642122e-10
+sub-CC320461	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.630059e-10
+sub-CC320478	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.778854e-10
+sub-CC320500	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.947918e-10
+sub-CC320553	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.027042e-09
+sub-CC320568	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.731565e-10
+sub-CC320574	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.600083e-10
+sub-CC320575	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.604360e-10
+sub-CC320608	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.270488e-10
+sub-CC320621	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.283633e-10
+sub-CC320661	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.751136e-10
+sub-CC320686	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.405395e-10
+sub-CC320687	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.233491e-10
+sub-CC320698	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.366767e-09
+sub-CC320759	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.767832e-10
+sub-CC410015	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.296960e-10
+sub-CC410032	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.332441e-10
+sub-CC410040	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.387001e-10
+sub-CC410084	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.594372e-10
+sub-CC410086	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.377047e-10
+sub-CC410091	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.990837e-10
+sub-CC410101	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.761363e-10
+sub-CC410113	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	8.432570e-10
+sub-CC410121	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.797005e-10
+sub-CC410129	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.437134e-10
+sub-CC410169	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.705734e-10
+sub-CC410173	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.243674e-10
+sub-CC410177	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.314324e-10
+sub-CC410179	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.058192e-10
+sub-CC410220	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.669752e-10
+sub-CC410222	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.109016e-10
+sub-CC410243	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.748006e-10
+sub-CC410248	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.880396e-10
+sub-CC410284	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.704436e-10
+sub-CC410287	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.233460e-09
+sub-CC410297	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.295787e-10
+sub-CC410323	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.093640e-10
+sub-CC410325	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.731076e-10
+sub-CC410354	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.765361e-10
+sub-CC410387	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.183961e-10
+sub-CC410390	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.501600e-10
+sub-CC410432	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.684678e-10
+sub-CC412004	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.322892e-10
+sub-CC412021	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.936356e-10
+sub-CC420004	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.636978e-10
+sub-CC420060	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.460098e-10
+sub-CC420075	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.576213e-10
+sub-CC420089	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.000013e-10
+sub-CC420091	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.247494e-10
+sub-CC420100	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.318443e-10
+sub-CC420137	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.916062e-10
+sub-CC420143	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.700880e-10
+sub-CC420148	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.343277e-10
+sub-CC420149	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.729685e-10
+sub-CC420157	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.810228e-10
+sub-CC420162	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.821080e-10
+sub-CC420167	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.917763e-10
+sub-CC420173	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.214443e-10
+sub-CC420180	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.725902e-10
+sub-CC420182	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.712938e-10
+sub-CC420202	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.453697e-10
+sub-CC420204	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.512778e-10
+sub-CC420222	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.124048e-10
+sub-CC420229	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.217486e-10
+sub-CC420261	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.377720e-10
+sub-CC510076	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	8.039733e-10
+sub-CC510161	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.706292e-10
+sub-CC510163	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.629538e-10
+sub-CC510208	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.749468e-09
+sub-CC510220	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.456888e-10
+sub-CC510226	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.096201e-10
+sub-CC510237	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.531434e-09
+sub-CC510242	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.560512e-10
+sub-CC510243	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.791363e-10
+sub-CC510255	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	8.637595e-10
+sub-CC510258	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.378658e-10
+sub-CC510259	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.314716e-10
+sub-CC510284	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.672540e-10
+sub-CC510304	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.655325e-09
+sub-CC510323	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.251123e-10
+sub-CC510329	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.899720e-10
+sub-CC510342	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.623717e-10
+sub-CC510354	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.533939e-10
+sub-CC510355	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.864191e-10
+sub-CC510392	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.526204e-10
+sub-CC510395	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.052823e-09
+sub-CC510415	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.382030e-09
+sub-CC510433	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.932816e-10
+sub-CC510434	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.229646e-10
+sub-CC510438	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.759031e-10
+sub-CC510473	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.621336e-10
+sub-CC510483	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.947100e-10
+sub-CC510486	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.399534e-10
+sub-CC510534	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.577041e-10
+sub-CC510548	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.765917e-10
+sub-CC510551	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.228398e-10
+sub-CC510609	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.895742e-10
+sub-CC510629	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.654650e-10
+sub-CC510639	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.201431e-10
+sub-CC510648	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.385162e-10
+sub-CC520002	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.523724e-10
+sub-CC520011	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.828265e-10
+sub-CC520013	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.789247e-10
+sub-CC520042	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.548847e-10
+sub-CC520055	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.745690e-10
+sub-CC520065	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.792844e-10
+sub-CC520083	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.941671e-10
+sub-CC520097	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.179359e-10
+sub-CC520127	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.952903e-10
+sub-CC520134	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.429056e-10
+sub-CC520136	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.375431e-10
+sub-CC520147	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.212420e-10
+sub-CC520168	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.214277e-10
+sub-CC520200	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.412848e-10
+sub-CC520209	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.983354e-10
+sub-CC610022	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.680886e-10
+sub-CC610028	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.981993e-10
+sub-CC610039	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.247641e-10
+sub-CC610040	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.675829e-10
+sub-CC610046	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.999392e-10
+sub-CC610050	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.956463e-09
+sub-CC610052	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.623887e-10
+sub-CC610058	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.737444e-10
+sub-CC610061	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.086975e-10
+sub-CC610071	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.500999e-10
+sub-CC610099	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.632800e-10
+sub-CC610101	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.892362e-10
+sub-CC610146	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.085388e-10
+sub-CC610178	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.656917e-09
+sub-CC610210	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.516340e-09
+sub-CC610212	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.230027e-10
+sub-CC610227	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.037868e-10
+sub-CC610288	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.414410e-10
+sub-CC610292	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.411620e-10
+sub-CC610344	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.685797e-10
+sub-CC610372	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.604913e-10
+sub-CC610392	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.321120e-09
+sub-CC610469	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.098187e-10
+sub-CC610496	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	8.553959e-10
+sub-CC610508	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.001865e-10
+sub-CC610568	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	9.795165e-10
+sub-CC610575	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.528734e-10
+sub-CC610576	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.752141e-10
+sub-CC610594	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.164091e-10
+sub-CC610625	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.588441e-10
+sub-CC610653	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.083175e-09
+sub-CC610671	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.919552e-10
+sub-CC620005	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	9.986781e-11
+sub-CC620085	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.915526e-10
+sub-CC620090	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.293464e-09
+sub-CC620106	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.200080e-10
+sub-CC620114	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.680334e-10
+sub-CC620118	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.707004e-10
+sub-CC620121	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.900041e-10
+sub-CC620129	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.034001e-10
+sub-CC620152	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.750805e-09
+sub-CC620164	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.747809e-10
+sub-CC620259	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.178020e-10
+sub-CC620279	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.048034e-10
+sub-CC620406	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	8.856404e-10
+sub-CC620413	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.476694e-10
+sub-CC620429	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.900075e-10
+sub-CC620479	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.785077e-10
+sub-CC620499	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.819965e-10
+sub-CC620785	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.326330e-10
+sub-CC710037	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.128686e-10
+sub-CC710154	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.537334e-10
+sub-CC710214	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.913956e-10
+sub-CC710313	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.389202e-10
+sub-CC710342	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.705137e-10
+sub-CC710382	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.344525e-10
+sub-CC710462	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.082783e-10
+sub-CC710486	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	6.454535e-10
+sub-CC710548	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.570048e-10
+sub-CC710566	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.274478e-10
+sub-CC710591	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.086641e-10
+sub-CC710664	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.982315e-10
+sub-CC710982	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.101181e-10
+sub-CC711035	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.289292e-10
+sub-CC711128	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	8.097877e-10
+sub-CC711158	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.560892e-10
+sub-CC711245	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.685334e-10
+sub-CC712027	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.729690e-10
+sub-CC720023	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.192295e-10
+sub-CC720071	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.163788e-10
+sub-CC720103	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.169532e-09
+sub-CC720119	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	9.197199e-10
+sub-CC720188	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.654812e-10
+sub-CC720304	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.085193e-10
+sub-CC720358	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.236766e-09
+sub-CC720400	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.544871e-10
+sub-CC720407	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.827368e-10
+sub-CC720497	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.597018e-10
+sub-CC720511	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.805797e-10
+sub-CC720516	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.345924e-10
+sub-CC720622	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.043582e-10
+sub-CC720646	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.862943e-10
+sub-CC720670	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.500549e-10
+sub-CC720685	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	7.176548e-10
+sub-CC721114	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.944145e-10
+sub-CC721224	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	8.017447e-10
+sub-CC721291	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.076467e-10
+sub-CC721292	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	2.745681e-10
+sub-CC721374	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.721435e-10
+sub-CC721392	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.082570e-09
+sub-CC721418	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.346530e-10
+sub-CC721434	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.047196e-10
+sub-CC721504	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.967060e-10
+sub-CC721519	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.201788e-10
+sub-CC721532	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	1.636658e-10
+sub-CC721585	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	3.569111e-09
+sub-CC721707	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	8.244257e-10
+sub-CC721894	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	8.240904e-10
+sub-CC722542	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	5.112458e-10
+sub-CC722651	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Theta	abs_mean	4.823912e-10
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					

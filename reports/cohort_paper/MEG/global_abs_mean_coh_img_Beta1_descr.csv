@@ -1,0 +1,1401 @@
+Subject_ID	Exam_ID	Metric	Freq	Stat	Global
+sub-CC110033	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017462
+sub-CC110037	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016959
+sub-CC110045	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017635
+sub-CC110069	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.023122
+sub-CC110087	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019405
+sub-CC110098	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019036
+sub-CC110101	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.013863
+sub-CC110126	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020624
+sub-CC110174	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.013568
+sub-CC110182	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015812
+sub-CC110187	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014533
+sub-CC110319	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015551
+sub-CC110411	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016696
+sub-CC110606	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021125
+sub-CC112141	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016897
+sub-CC120008	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021924
+sub-CC120049	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018999
+sub-CC120061	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017216
+sub-CC120065	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017542
+sub-CC120120	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014254
+sub-CC120166	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017235
+sub-CC120182	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019917
+sub-CC120218	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015577
+sub-CC120264	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016158
+sub-CC120276	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.023595
+sub-CC120309	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019558
+sub-CC120313	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.022078
+sub-CC120319	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017328
+sub-CC120347	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017429
+sub-CC120376	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020681
+sub-CC120409	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018991
+sub-CC120462	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.022705
+sub-CC120469	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018800
+sub-CC120550	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017249
+sub-CC120640	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014931
+sub-CC120727	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018690
+sub-CC120764	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020267
+sub-CC121111	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.012829
+sub-CC121144	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014772
+sub-CC121158	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.022305
+sub-CC121200	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017967
+sub-CC121317	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016213
+sub-CC121397	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017951
+sub-CC121411	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017752
+sub-CC121428	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017987
+sub-CC121479	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015126
+sub-CC121685	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020180
+sub-CC121795	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019320
+sub-CC122172	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018093
+sub-CC122405	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016448
+sub-CC210023	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016344
+sub-CC210051	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017915
+sub-CC210088	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015686
+sub-CC210124	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020052
+sub-CC210148	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015723
+sub-CC210172	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015660
+sub-CC210182	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021440
+sub-CC210250	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019295
+sub-CC210422	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020880
+sub-CC210519	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015172
+sub-CC210617	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015785
+sub-CC210657	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021155
+sub-CC212153	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015097
+sub-CC220107	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014704
+sub-CC220115	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017368
+sub-CC220132	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021804
+sub-CC220151	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016353
+sub-CC220198	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.026580
+sub-CC220203	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019879
+sub-CC220223	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021818
+sub-CC220234	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015475
+sub-CC220284	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016338
+sub-CC220323	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016075
+sub-CC220335	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020789
+sub-CC220352	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017288
+sub-CC220372	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019979
+sub-CC220419	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017468
+sub-CC220506	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019433
+sub-CC220518	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.024137
+sub-CC220519	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016153
+sub-CC220535	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019103
+sub-CC220567	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020733
+sub-CC220610	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021781
+sub-CC220635	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.023539
+sub-CC220697	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016635
+sub-CC220713	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016547
+sub-CC220828	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018814
+sub-CC220843	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019446
+sub-CC220901	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018019
+sub-CC220920	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016333
+sub-CC220974	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017694
+sub-CC220999	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015585
+sub-CC221002	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021313
+sub-CC221031	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.013232
+sub-CC221033	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018458
+sub-CC221040	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014237
+sub-CC221054	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017605
+sub-CC221107	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019157
+sub-CC221209	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016188
+sub-CC221324	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016573
+sub-CC310008	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019292
+sub-CC310051	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.023041
+sub-CC310052	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.027601
+sub-CC310086	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018752
+sub-CC310129	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018463
+sub-CC310135	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016468
+sub-CC310160	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016364
+sub-CC310203	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.013833
+sub-CC310224	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021066
+sub-CC310252	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019090
+sub-CC310256	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017973
+sub-CC310331	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020844
+sub-CC310391	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020163
+sub-CC310397	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016759
+sub-CC310400	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018585
+sub-CC310410	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017088
+sub-CC310414	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014452
+sub-CC310450	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018303
+sub-CC310463	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018729
+sub-CC310473	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016076
+sub-CC312058	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018147
+sub-CC312222	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019749
+sub-CC320002	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018364
+sub-CC320022	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021411
+sub-CC320059	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019256
+sub-CC320088	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019616
+sub-CC320089	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018460
+sub-CC320107	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021793
+sub-CC320109	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.023519
+sub-CC320160	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017573
+sub-CC320202	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.024252
+sub-CC320206	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020453
+sub-CC320218	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015338
+sub-CC320297	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018415
+sub-CC320325	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021864
+sub-CC320342	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020567
+sub-CC320461	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019715
+sub-CC320478	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017467
+sub-CC320500	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017996
+sub-CC320553	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019342
+sub-CC320568	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015107
+sub-CC320574	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017369
+sub-CC320575	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.022790
+sub-CC320608	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.022134
+sub-CC320621	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015567
+sub-CC320661	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020585
+sub-CC320686	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.022224
+sub-CC320687	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.024244
+sub-CC320698	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.025913
+sub-CC320759	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020665
+sub-CC410015	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020882
+sub-CC410032	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018149
+sub-CC410040	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020386
+sub-CC410084	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017220
+sub-CC410086	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017025
+sub-CC410091	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018925
+sub-CC410101	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017617
+sub-CC410113	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019114
+sub-CC410121	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017189
+sub-CC410129	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.012758
+sub-CC410169	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015378
+sub-CC410173	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019554
+sub-CC410177	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016609
+sub-CC410179	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019391
+sub-CC410220	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016985
+sub-CC410222	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014921
+sub-CC410243	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.023070
+sub-CC410248	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021059
+sub-CC410284	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017141
+sub-CC410287	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017939
+sub-CC410297	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015810
+sub-CC410323	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019810
+sub-CC410325	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.013728
+sub-CC410354	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017347
+sub-CC410387	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016650
+sub-CC410390	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017502
+sub-CC410432	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016432
+sub-CC412004	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019757
+sub-CC412021	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020071
+sub-CC420004	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019765
+sub-CC420060	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017696
+sub-CC420075	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020387
+sub-CC420089	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018336
+sub-CC420091	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016137
+sub-CC420100	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019940
+sub-CC420137	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020739
+sub-CC420143	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018554
+sub-CC420148	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017683
+sub-CC420149	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018664
+sub-CC420157	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017375
+sub-CC420162	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019644
+sub-CC420167	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020121
+sub-CC420173	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019108
+sub-CC420180	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.023102
+sub-CC420182	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018636
+sub-CC420202	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017922
+sub-CC420204	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019584
+sub-CC420222	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015964
+sub-CC420229	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018729
+sub-CC420261	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020378
+sub-CC510076	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018991
+sub-CC510161	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015150
+sub-CC510163	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015956
+sub-CC510208	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018596
+sub-CC510220	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017015
+sub-CC510226	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018696
+sub-CC510237	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021325
+sub-CC510242	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015632
+sub-CC510243	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021426
+sub-CC510255	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016914
+sub-CC510258	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015814
+sub-CC510259	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.025738
+sub-CC510284	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014507
+sub-CC510304	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019115
+sub-CC510323	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.023022
+sub-CC510329	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.023484
+sub-CC510342	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.022501
+sub-CC510354	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018380
+sub-CC510355	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019293
+sub-CC510392	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018042
+sub-CC510395	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017274
+sub-CC510415	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018575
+sub-CC510433	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018328
+sub-CC510434	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017224
+sub-CC510438	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020449
+sub-CC510473	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.022476
+sub-CC510483	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021678
+sub-CC510486	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016818
+sub-CC510534	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018393
+sub-CC510548	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018075
+sub-CC510551	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019421
+sub-CC510609	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020385
+sub-CC510629	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016593
+sub-CC510639	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015821
+sub-CC510648	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020078
+sub-CC520002	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018631
+sub-CC520011	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017468
+sub-CC520013	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020070
+sub-CC520042	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019760
+sub-CC520055	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020143
+sub-CC520065	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017677
+sub-CC520083	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.022131
+sub-CC520097	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021132
+sub-CC520127	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017532
+sub-CC520134	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018450
+sub-CC520136	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016659
+sub-CC520147	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021850
+sub-CC520168	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016340
+sub-CC520200	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018027
+sub-CC520209	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015941
+sub-CC610022	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019025
+sub-CC610028	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.022390
+sub-CC610039	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017357
+sub-CC610040	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017413
+sub-CC610046	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021358
+sub-CC610050	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019767
+sub-CC610052	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019163
+sub-CC610058	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.013622
+sub-CC610061	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014499
+sub-CC610071	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018806
+sub-CC610099	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017243
+sub-CC610101	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018402
+sub-CC610146	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014321
+sub-CC610178	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017772
+sub-CC610210	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018520
+sub-CC610212	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017610
+sub-CC610227	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016125
+sub-CC610288	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017379
+sub-CC610292	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.021061
+sub-CC610344	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.012699
+sub-CC610372	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017628
+sub-CC610392	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019484
+sub-CC610469	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014359
+sub-CC610496	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018059
+sub-CC610508	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017971
+sub-CC610568	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019018
+sub-CC610575	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016222
+sub-CC610576	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016800
+sub-CC610594	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015629
+sub-CC610625	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019346
+sub-CC610653	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016912
+sub-CC610671	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.011859
+sub-CC620005	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016823
+sub-CC620085	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020237
+sub-CC620090	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018181
+sub-CC620106	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.012993
+sub-CC620114	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015066
+sub-CC620118	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.022886
+sub-CC620121	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019430
+sub-CC620129	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017155
+sub-CC620152	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018681
+sub-CC620164	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017484
+sub-CC620259	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020184
+sub-CC620279	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016451
+sub-CC620406	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018323
+sub-CC620413	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019119
+sub-CC620429	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016662
+sub-CC620479	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015013
+sub-CC620499	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014980
+sub-CC620785	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018870
+sub-CC710037	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019218
+sub-CC710154	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015544
+sub-CC710214	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015647
+sub-CC710313	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015853
+sub-CC710342	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014171
+sub-CC710382	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018157
+sub-CC710462	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015582
+sub-CC710486	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016674
+sub-CC710548	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015812
+sub-CC710566	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017868
+sub-CC710591	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014570
+sub-CC710664	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.013977
+sub-CC710982	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015746
+sub-CC711035	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018201
+sub-CC711128	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019350
+sub-CC711158	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016233
+sub-CC711245	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020669
+sub-CC712027	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020320
+sub-CC720023	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014946
+sub-CC720071	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019699
+sub-CC720103	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017489
+sub-CC720119	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.022327
+sub-CC720188	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017089
+sub-CC720304	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.013837
+sub-CC720358	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016765
+sub-CC720400	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018503
+sub-CC720407	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019914
+sub-CC720497	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017832
+sub-CC720511	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015818
+sub-CC720516	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016890
+sub-CC720622	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019517
+sub-CC720646	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014240
+sub-CC720670	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020041
+sub-CC720685	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016966
+sub-CC721114	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018859
+sub-CC721224	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.023193
+sub-CC721291	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018072
+sub-CC721292	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019475
+sub-CC721374	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018153
+sub-CC721392	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.019246
+sub-CC721418	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.022289
+sub-CC721434	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015484
+sub-CC721504	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.016017
+sub-CC721519	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.017245
+sub-CC721532	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.014169
+sub-CC721585	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015090
+sub-CC721707	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015838
+sub-CC721894	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.015740
+sub-CC722542	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.020635
+sub-CC722651	ses-rest_meg_ses-rest_task-rest_proc-sss	coh_img	Beta1	abs_mean	0.018070
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					

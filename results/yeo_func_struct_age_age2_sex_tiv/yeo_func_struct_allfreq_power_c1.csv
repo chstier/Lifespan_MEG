@@ -1,0 +1,85 @@
+frequency	network	contrasts	t	p
+Delta	left_dorsal attention	c1	-1.469000	0.942000
+Delta	left_control	c1	-0.928200	0.822000
+Delta	left_default	c1	0.437500	0.336000
+Delta	left_visual	c1	-1.001900	0.848000
+Delta	left_limbic	c1	0.495800	0.290000
+Delta	left_somatomotor	c1	-0.554100	0.710000
+Delta	left_ventral attention	c1	-0.273000	0.622000
+Delta	right_dorsal attention	c1	-0.617700	0.754000
+Delta	right_control	c1	0.076700	0.486000
+Delta	right_default	c1	1.273300	0.122000
+Delta	right_visual	c1	-0.622500	0.698000
+Delta	right_limbic	c1	1.846700	0.034600
+Delta	right_somatomotor	c1	-0.322200	0.644000
+Delta	right_ventral attention	c1	0.148600	0.486000
+Theta	left_dorsal attention	c1	-0.806300	0.788000
+Theta	left_control	c1	-0.158200	0.538000
+Theta	left_default	c1	1.123500	0.140000
+Theta	left_visual	c1	0.273800	0.392000
+Theta	left_limbic	c1	0.847500	0.202000
+Theta	left_somatomotor	c1	-0.162000	0.540000
+Theta	left_ventral attention	c1	0.719100	0.254000
+Theta	right_dorsal attention	c1	-0.420700	0.658000
+Theta	right_control	c1	0.670700	0.252000
+Theta	right_default	c1	1.600400	0.058100
+Theta	right_visual	c1	-0.242400	0.582000
+Theta	right_limbic	c1	2.266800	0.011800
+Theta	right_somatomotor	c1	-0.346500	0.652000
+Theta	right_ventral attention	c1	0.590800	0.296000
+Alpha	left_dorsal attention	c1	-1.671900	0.962000
+Alpha	left_control	c1	-0.531400	0.696000
+Alpha	left_default	c1	0.752500	0.268000
+Alpha	left_visual	c1	-0.994300	0.860000
+Alpha	left_limbic	c1	0.091500	0.476000
+Alpha	left_somatomotor	c1	-0.478900	0.684000
+Alpha	left_ventral attention	c1	0.442900	0.320000
+Alpha	right_dorsal attention	c1	-1.085600	0.856000
+Alpha	right_control	c1	0.021700	0.536000
+Alpha	right_default	c1	1.044500	0.126000
+Alpha	right_visual	c1	-1.193500	0.900000
+Alpha	right_limbic	c1	1.516500	0.071800
+Alpha	right_somatomotor	c1	-0.781700	0.786000
+Alpha	right_ventral attention	c1	0.629700	0.278000
+Beta1	left_dorsal attention	c1	-2.222400	0.994000
+Beta1	left_control	c1	-0.673500	0.730000
+Beta1	left_default	c1	0.397800	0.372000
+Beta1	left_visual	c1	-1.177600	0.878000
+Beta1	left_limbic	c1	-0.074600	0.528000
+Beta1	left_somatomotor	c1	-1.549600	0.938000
+Beta1	left_ventral attention	c1	0.431300	0.328000
+Beta1	right_dorsal attention	c1	-1.993500	0.978000
+Beta1	right_control	c1	-0.776600	0.806000
+Beta1	right_default	c1	0.226800	0.390000
+Beta1	right_visual	c1	-2.306500	0.992000
+Beta1	right_limbic	c1	1.759200	0.045200
+Beta1	right_somatomotor	c1	-1.978900	0.982000
+Beta1	right_ventral attention	c1	-0.007400	0.500000
+Beta2	left_dorsal attention	c1	-2.429900	0.996000
+Beta2	left_control	c1	-0.266400	0.568000
+Beta2	left_default	c1	0.530200	0.294000
+Beta2	left_visual	c1	-0.878900	0.774000
+Beta2	left_limbic	c1	0.520500	0.304000
+Beta2	left_somatomotor	c1	-1.782900	0.968000
+Beta2	left_ventral attention	c1	0.215000	0.420000
+Beta2	right_dorsal attention	c1	-1.922100	0.980000
+Beta2	right_control	c1	-0.688000	0.782000
+Beta2	right_default	c1	0.639400	0.250000
+Beta2	right_visual	c1	-1.842500	0.974000
+Beta2	right_limbic	c1	2.004200	0.027900
+Beta2	right_somatomotor	c1	-1.914700	0.974000
+Beta2	right_ventral attention	c1	-0.292000	0.606000
+Gamma	left_dorsal attention	c1	-2.916200	0.998000
+Gamma	left_control	c1	-1.313200	0.894000
+Gamma	left_default	c1	-0.435100	0.674000
+Gamma	left_visual	c1	-1.086200	0.826000
+Gamma	left_limbic	c1	0.817700	0.222000
+Gamma	left_somatomotor	c1	-2.446000	0.996000
+Gamma	left_ventral attention	c1	-1.303600	0.874000
+Gamma	right_dorsal attention	c1	-2.190800	0.984000
+Gamma	right_control	c1	-0.548800	0.730000
+Gamma	right_default	c1	0.271900	0.396000
+Gamma	right_visual	c1	-1.734700	0.962000
+Gamma	right_limbic	c1	0.929300	0.160000
+Gamma	right_somatomotor	c1	-2.386400	0.984000
+Gamma	right_ventral attention	c1	-0.905800	0.792000

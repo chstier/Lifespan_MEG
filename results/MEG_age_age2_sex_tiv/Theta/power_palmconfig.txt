@@ -1,0 +1,18 @@
+# Configuration file for PALM.
+# Version version, running in MATLAB 9.5.0.1298439 (R2018b) Update 7.
+# 24-Jul-2022 22:53:58
+
+-i export/all_subjects/power_Theta_abs_not_scaled_N350_all.mgh
+-m export/all_subjects/all_suma_msk.mgh
+-s conf/suma-all-fsaverage-10.gii
+-d design_all_corr2_sex_manualdemean_icv.csv
+-demean
+-t con_corr2_quadr2_all_sex_icv.csv
+-T
+-tfce2d
+-logp
+-saveglm
+-savedof
+-accel tail
+-n 500
+-o results/corr2_quadr2_sex_icv_manualdemean_plusdemean/Theta/power

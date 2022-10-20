@@ -1,0 +1,410 @@
+<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<Workbook xmlns='urn:schemas-microsoft-com:office:spreadsheet' xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns:ss='urn:schemas-microsoft-com:office:spreadsheet' xmlns:html='http://www.w3.org/TR/REC-html40'>
+<Worksheet ss:Name='Matlab_Data'><Table>
+<Row>
+<Cell><Data ss:Type='String'>Unknown</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>Left-Thalamus-Proper</Data></Cell>
+<Cell><Data ss:Type='Number'>25</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>Left-Caudate</Data></Cell>
+<Cell><Data ss:Type='Number'>25</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>Left-Putamen</Data></Cell>
+<Cell><Data ss:Type='Number'>25</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>Left-Pallidum</Data></Cell>
+<Cell><Data ss:Type='Number'>25</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>Hippocampus, L</Data></Cell>
+<Cell><Data ss:Type='Number'>17</Data></Cell>
+<Cell><Data ss:Type='String'>T</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>Amygdala, L</Data></Cell>
+<Cell><Data ss:Type='Number'>18</Data></Cell>
+<Cell><Data ss:Type='String'>T</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>Right-Thalamus-Proper</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>Right-Caudate</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>Right-Putamen</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>Right-Pallidum</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>Right-Hippocampus</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>Right-Amygdala</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>caudal middle frontal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>8</Data></Cell>
+<Cell><Data ss:Type='String'>F</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>entorhinal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>16</Data></Cell>
+<Cell><Data ss:Type='String'>T</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>postcentral, L</Data></Cell>
+<Cell><Data ss:Type='Number'>26</Data></Cell>
+<Cell><Data ss:Type='String'>P</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>pars triangularis, L</Data></Cell>
+<Cell><Data ss:Type='Number'>5</Data></Cell>
+<Cell><Data ss:Type='String'>F</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>supramarginal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>27</Data></Cell>
+<Cell><Data ss:Type='String'>P</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>insula, L</Data></Cell>
+<Cell><Data ss:Type='Number'>25</Data></Cell>
+<Cell><Data ss:Type='String'>I</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>banks superior temp, L</Data></Cell>
+<Cell><Data ss:Type='Number'>24</Data></Cell>
+<Cell><Data ss:Type='String'>T</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>lateral orbitofrontal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>3</Data></Cell>
+<Cell><Data ss:Type='String'>F</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>pars orbitalis, L</Data></Cell>
+<Cell><Data ss:Type='Number'>4</Data></Cell>
+<Cell><Data ss:Type='String'>F</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>middle temporal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>22</Data></Cell>
+<Cell><Data ss:Type='String'>T</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>pericalcarine, L</Data></Cell>
+<Cell><Data ss:Type='Number'>33</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>parahippocampal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>15</Data></Cell>
+<Cell><Data ss:Type='String'>T</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>paracentral, L</Data></Cell>
+<Cell><Data ss:Type='Number'>11</Data></Cell>
+<Cell><Data ss:Type='String'>F</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>medial orbitofrontal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>2</Data></Cell>
+<Cell><Data ss:Type='String'>F</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>frontal pole, L</Data></Cell>
+<Cell><Data ss:Type='Number'>1</Data></Cell>
+<Cell><Data ss:Type='String'>F</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>cuneus, L</Data></Cell>
+<Cell><Data ss:Type='Number'>34</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>inferior temporal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>21</Data></Cell>
+<Cell><Data ss:Type='String'>T</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>rostral middle frontal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>6</Data></Cell>
+<Cell><Data ss:Type='String'>F</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>rostral anterior cingulate, L</Data></Cell>
+<Cell><Data ss:Type='Number'>12</Data></Cell>
+<Cell><Data ss:Type='String'>C</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>isthmus cingulate, L</Data></Cell>
+<Cell><Data ss:Type='Number'>31</Data></Cell>
+<Cell><Data ss:Type='String'>C</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>lateral occipital, L</Data></Cell>
+<Cell><Data ss:Type='Number'>35</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>lingual, L</Data></Cell>
+<Cell><Data ss:Type='Number'>32</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>superior parietal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>29</Data></Cell>
+<Cell><Data ss:Type='String'>P</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>pars opercularis, L</Data></Cell>
+<Cell><Data ss:Type='Number'>9</Data></Cell>
+<Cell><Data ss:Type='String'>F</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>fusiform, L</Data></Cell>
+<Cell><Data ss:Type='Number'>19</Data></Cell>
+<Cell><Data ss:Type='String'>T</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>caudal anterior cingulate, L</Data></Cell>
+<Cell><Data ss:Type='Number'>13</Data></Cell>
+<Cell><Data ss:Type='String'>C</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>superior frontal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>7</Data></Cell>
+<Cell><Data ss:Type='String'>F</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>temporalpole, L</Data></Cell>
+<Cell><Data ss:Type='Number'>20</Data></Cell>
+<Cell><Data ss:Type='String'>T</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>precuneus, L</Data></Cell>
+<Cell><Data ss:Type='Number'>30</Data></Cell>
+<Cell><Data ss:Type='String'>P</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>transverse temporal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>24</Data></Cell>
+<Cell><Data ss:Type='String'>T</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>precentral, L</Data></Cell>
+<Cell><Data ss:Type='Number'>10</Data></Cell>
+<Cell><Data ss:Type='String'>F</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>inferior parietal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>28</Data></Cell>
+<Cell><Data ss:Type='String'>P</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>posterior cingulate, L</Data></Cell>
+<Cell><Data ss:Type='Number'>14</Data></Cell>
+<Cell><Data ss:Type='String'>C</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>superior temporal, L</Data></Cell>
+<Cell><Data ss:Type='Number'>23</Data></Cell>
+<Cell><Data ss:Type='String'>T</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>caudalmiddlefrontal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>entorhinal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>postcentral, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>parstriangularis, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>supramarginal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>insula, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>bankssts, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>lateralorbitofrontal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>parsorbitalis, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>middletemporal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>pericalcarine, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>parahippocampal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>paracentral, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>medialorbitofrontal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>frontalpole, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>cuneus, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>inferiortemporal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>rostralmiddlefrontal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>rostralanteriorcingulate, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>isthmuscingulate, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>lateraloccipital, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>lingual, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>superiorparietal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>parsopercularis, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>fusiform, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>caudalanteriorcingulate, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>superiorfrontal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>temporalpole, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>precuneus, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>transversetemporal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>precentral, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>inferiorparietal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>posteriorcingulate, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type='String'>superiortemporal, R</Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+<Cell><Data ss:Type='Number'></Data></Cell>
+</Row>
+</Table></Worksheet></Workbook>

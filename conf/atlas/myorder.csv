@@ -1,0 +1,81 @@
+Unknown			1
+Left-Thalamus-Proper	25		2
+Left-Caudate	25		3
+Left-Putamen	25		4
+Left-Pallidum	25		5
+Hippocampus, L	17	T	6
+Amygdala, L	18	T	7
+Right-Thalamus-Proper			8
+Right-Caudate			9
+Right-Putamen			10
+Right-Pallidum			11
+Right-Hippocampus			12
+Right-Amygdala			13
+caudal middle frontal, L	8	F	14
+entorhinal, L	16	T	15
+postcentral, L	26	P	16
+pars triangularis, L	5	F	17
+supramarginal, L	27	P	18
+insula, L	25	I	19
+banks superior temp, L	24	T	20
+lateral orbitofrontal, L	3	F	21
+pars orbitalis, L	4	F	22
+middle temporal, L	22	T	23
+pericalcarine, L	33		24
+parahippocampal, L	15	T	25
+paracentral, L	11	F	26
+medial orbitofrontal, L	2	F	27
+frontal pole, L	1	F	28
+cuneus, L	34		29
+inferior temporal, L	21	T	30
+rostral middle frontal, L	6	F	31
+rostral anterior cingulate, L	12	C	32
+isthmus cingulate, L	31	C	33
+lateral occipital, L	35		34
+lingual, L	32		35
+superior parietal, L	29	P	36
+pars opercularis, L	9	F	37
+fusiform, L	19	T	38
+caudal anterior cingulate, L	13	C	39
+superior frontal, L	7	F	40
+temporalpole, L	20	T	41
+precuneus, L	30	P	42
+transverse temporal, L	24	T	43
+precentral, L	10	F	44
+inferior parietal, L	28	P	45
+posterior cingulate, L	14	C	46
+superior temporal, L	23	T	47
+caudalmiddlefrontal, R			48
+entorhinal, R			49
+postcentral, R			50
+parstriangularis, R			51
+supramarginal, R			52
+insula, R			53
+bankssts, R			54
+lateralorbitofrontal, R			55
+parsorbitalis, R			56
+middletemporal, R			57
+pericalcarine, R			58
+parahippocampal, R			59
+paracentral, R			60
+medialorbitofrontal, R			61
+frontalpole, R			62
+cuneus, R			63
+inferiortemporal, R			64
+rostralmiddlefrontal, R			65
+rostralanteriorcingulate, R			66
+isthmuscingulate, R			67
+lateraloccipital, R			68
+lingual, R			69
+superiorparietal, R			70
+parsopercularis, R			71
+fusiform, R			72
+caudalanteriorcingulate, R			73
+superiorfrontal, R			74
+temporalpole, R			75
+precuneus, R			76
+transversetemporal, R			77
+precentral, R			78
+inferiorparietal, R			79
+posteriorcingulate, R			80
+superiortemporal, R			81

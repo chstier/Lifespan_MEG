@@ -1,0 +1,18 @@
+# Configuration file for PALM.
+# Version version, running in MATLAB 9.5.0.1298439 (R2018b) Update 7.
+# 24-Jul-2022 21:44:19
+
+-i export/all_subjects/ld10_sm/thickness_pos_smoothed_12_suma_all_N350.mgh
+-m export/all_subjects/ld10_sm/all_suma_msk_zerosubc.mgh
+-s conf/suma-all-fsaverage-10.gii
+-d design_all_corr2_sex_manualdemean_icv.csv
+-demean
+-t con_corr2_quadr2_all_sex_icv.csv
+-T
+-tfce2d
+-logp
+-saveglm
+-savedof
+-accel tail
+-n 500
+-o results/th_only_sm12/corr2_quadr2_sex_icv/

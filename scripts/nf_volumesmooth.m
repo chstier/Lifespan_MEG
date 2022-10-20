@@ -1,0 +1,24 @@
+function [output] = volumesmooth(input, fwhm, str)
+
+% VOLUMESMOOTH is a helper function for segmentations
+%
+% See also VOLUMETHRESHOLD, VOLUMEFILLHOLES
+
+if nargin==3
+  fprintf('smoothing %s with a %d-voxel FWHM kernel\n', str, fwhm);
+end
+
+% check for any version of SPM
+%if ~ft_hastoolbox('spm')
+%  % add SPM8 to the path
+%  ft_hastoolbox('spm8', 1);
+%end
+
+% don't touch the input, make a deep copy
+output = input+0;
+% the mex files underneath the spm function will change the input variable
+if (exist('spm_smooth')~=2)
+ % make sure we have SPM in path
+ addpath('/tools/spm/spm12_6685')
+end
+spm_smooth(output, output, fwhm);

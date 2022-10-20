@@ -1,0 +1,13 @@
+# Configuration file for PALM.
+# Version version, running in MATLAB 9.5.0.1298439 (R2018b) Update 7.
+# 24-Jul-2022 22:25:50
+
+-i reports/all_subjects/global_abs_mean_coh_img_Delta_values.csv
+-d design_all_corr2_sex_manualdemean_icv.csv
+-demean
+-t con_corr2_quadr2_all_sex_icv.csv
+-saveglm
+-savedof
+-accel tail
+-n 500
+-o results/global_corr2_quadr2_sex_icv_manualdemean_plusdemean/Delta/coh_img

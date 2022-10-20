@@ -1,0 +1,1401 @@
+Subject_ID	Exam_ID	Metric	Freq	Stat	Global
+sub-CC110033	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.671561e-11
+sub-CC110037	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.022650e-11
+sub-CC110045	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.597465e-11
+sub-CC110069	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.483957e-10
+sub-CC110087	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.986395e-11
+sub-CC110098	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.431706e-10
+sub-CC110101	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.614295e-11
+sub-CC110126	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.440450e-11
+sub-CC110174	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	3.349103e-11
+sub-CC110182	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.865143e-11
+sub-CC110187	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.210653e-11
+sub-CC110319	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.720306e-11
+sub-CC110411	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.725701e-11
+sub-CC110606	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.953771e-11
+sub-CC112141	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.513541e-10
+sub-CC120008	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.718393e-11
+sub-CC120049	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.759773e-11
+sub-CC120061	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.323164e-11
+sub-CC120065	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.994957e-11
+sub-CC120120	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.684664e-11
+sub-CC120166	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.907208e-11
+sub-CC120182	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.579785e-11
+sub-CC120218	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.098065e-11
+sub-CC120264	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.092672e-10
+sub-CC120276	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.010338e-11
+sub-CC120309	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.089729e-11
+sub-CC120313	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.113507e-11
+sub-CC120319	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.695045e-11
+sub-CC120347	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.441497e-11
+sub-CC120376	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.754690e-11
+sub-CC120409	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.101668e-10
+sub-CC120462	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.677554e-11
+sub-CC120469	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.002738e-10
+sub-CC120550	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.396859e-11
+sub-CC120640	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.950159e-11
+sub-CC120727	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.079240e-11
+sub-CC120764	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.314480e-11
+sub-CC121111	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.120192e-10
+sub-CC121144	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.720837e-11
+sub-CC121158	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.681934e-11
+sub-CC121200	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.046155e-10
+sub-CC121317	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.782835e-11
+sub-CC121397	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.298154e-11
+sub-CC121411	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.617456e-11
+sub-CC121428	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.224471e-11
+sub-CC121479	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.119296e-11
+sub-CC121685	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.813722e-10
+sub-CC121795	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.383211e-11
+sub-CC122172	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.306387e-11
+sub-CC122405	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.399046e-11
+sub-CC210023	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.239503e-11
+sub-CC210051	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.111200e-11
+sub-CC210088	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.461172e-11
+sub-CC210124	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.342945e-11
+sub-CC210148	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.385353e-11
+sub-CC210172	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.012197e-10
+sub-CC210182	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.228260e-11
+sub-CC210250	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.390835e-10
+sub-CC210422	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.638491e-10
+sub-CC210519	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.076609e-11
+sub-CC210617	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.169122e-11
+sub-CC210657	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.100763e-10
+sub-CC212153	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.133672e-11
+sub-CC220107	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.184245e-11
+sub-CC220115	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.974188e-11
+sub-CC220132	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.641832e-11
+sub-CC220151	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.519673e-11
+sub-CC220198	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.999127e-10
+sub-CC220203	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.317706e-11
+sub-CC220223	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.254243e-10
+sub-CC220234	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.494813e-11
+sub-CC220284	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.964335e-11
+sub-CC220323	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.680606e-11
+sub-CC220335	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.809071e-11
+sub-CC220352	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.490874e-11
+sub-CC220372	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.945164e-11
+sub-CC220419	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.605060e-11
+sub-CC220506	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.846501e-11
+sub-CC220518	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.092099e-10
+sub-CC220519	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.298221e-11
+sub-CC220535	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.166808e-10
+sub-CC220567	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.222148e-10
+sub-CC220610	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.852689e-11
+sub-CC220635	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.103109e-10
+sub-CC220697	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.392789e-11
+sub-CC220713	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.550561e-10
+sub-CC220828	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.011497e-10
+sub-CC220843	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.973176e-11
+sub-CC220901	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.855678e-11
+sub-CC220920	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.548632e-11
+sub-CC220974	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.739119e-11
+sub-CC220999	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.675268e-11
+sub-CC221002	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.503835e-10
+sub-CC221031	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.472411e-11
+sub-CC221033	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.247601e-10
+sub-CC221040	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.236501e-11
+sub-CC221054	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.073677e-11
+sub-CC221107	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.104323e-10
+sub-CC221209	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.298608e-11
+sub-CC221324	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.206668e-10
+sub-CC310008	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.737689e-11
+sub-CC310051	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.280610e-10
+sub-CC310052	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.457020e-11
+sub-CC310086	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.327625e-10
+sub-CC310129	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.544078e-10
+sub-CC310135	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.828345e-11
+sub-CC310160	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.438615e-11
+sub-CC310203	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.883133e-11
+sub-CC310224	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.900001e-11
+sub-CC310252	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	3.700315e-10
+sub-CC310256	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.160863e-10
+sub-CC310331	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.114443e-11
+sub-CC310391	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.419524e-11
+sub-CC310397	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.466222e-10
+sub-CC310400	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.059627e-10
+sub-CC310410	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.401357e-11
+sub-CC310414	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.889972e-11
+sub-CC310450	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.108634e-10
+sub-CC310463	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.296809e-11
+sub-CC310473	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.119556e-10
+sub-CC312058	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.027364e-10
+sub-CC312222	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.710183e-11
+sub-CC320002	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.026480e-10
+sub-CC320022	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.094507e-11
+sub-CC320059	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.551733e-10
+sub-CC320088	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.447699e-10
+sub-CC320089	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.515045e-10
+sub-CC320107	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.673336e-11
+sub-CC320109	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.192270e-10
+sub-CC320160	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.653428e-11
+sub-CC320202	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.144633e-10
+sub-CC320206	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.335740e-10
+sub-CC320218	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.161360e-10
+sub-CC320297	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.463957e-11
+sub-CC320325	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.033297e-10
+sub-CC320342	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.108900e-10
+sub-CC320461	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.123863e-10
+sub-CC320478	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.042694e-11
+sub-CC320500	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.645747e-11
+sub-CC320553	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.038434e-10
+sub-CC320568	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.718320e-11
+sub-CC320574	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.873044e-11
+sub-CC320575	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.221063e-10
+sub-CC320608	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.011714e-10
+sub-CC320621	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.593937e-11
+sub-CC320661	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.735968e-10
+sub-CC320686	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.423217e-11
+sub-CC320687	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.482848e-11
+sub-CC320698	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.529712e-10
+sub-CC320759	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.752838e-11
+sub-CC410015	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.448150e-11
+sub-CC410032	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.698032e-11
+sub-CC410040	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.232411e-10
+sub-CC410084	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.797517e-11
+sub-CC410086	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.893551e-10
+sub-CC410091	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.088275e-10
+sub-CC410101	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.674954e-10
+sub-CC410113	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.224075e-10
+sub-CC410121	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.696654e-11
+sub-CC410129	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	3.443317e-11
+sub-CC410169	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.415287e-10
+sub-CC410173	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.472722e-11
+sub-CC410177	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.380271e-10
+sub-CC410179	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.551139e-10
+sub-CC410220	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.267637e-11
+sub-CC410222	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.926490e-11
+sub-CC410243	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.946611e-11
+sub-CC410248	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.274292e-11
+sub-CC410284	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.033076e-10
+sub-CC410287	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.827458e-10
+sub-CC410297	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.411422e-10
+sub-CC410323	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.249250e-10
+sub-CC410325	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.166038e-11
+sub-CC410354	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.535780e-11
+sub-CC410387	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.079806e-10
+sub-CC410390	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.418874e-11
+sub-CC410432	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.052821e-10
+sub-CC412004	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.002740e-10
+sub-CC412021	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.455240e-11
+sub-CC420004	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.957347e-11
+sub-CC420060	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.301733e-11
+sub-CC420075	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.492541e-10
+sub-CC420089	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.000086e-11
+sub-CC420091	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.229473e-10
+sub-CC420100	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.348199e-11
+sub-CC420137	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.819948e-11
+sub-CC420143	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.498511e-11
+sub-CC420148	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.120997e-10
+sub-CC420149	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.712977e-11
+sub-CC420157	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.316673e-11
+sub-CC420162	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.460429e-11
+sub-CC420167	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.775542e-11
+sub-CC420173	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.850263e-11
+sub-CC420180	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.636903e-10
+sub-CC420182	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.407146e-10
+sub-CC420202	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.850795e-10
+sub-CC420204	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.305604e-10
+sub-CC420222	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.772232e-11
+sub-CC420229	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.704441e-10
+sub-CC420261	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.182429e-10
+sub-CC510076	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.224431e-10
+sub-CC510161	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.538503e-11
+sub-CC510163	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.419027e-11
+sub-CC510208	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.857199e-10
+sub-CC510220	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.140583e-10
+sub-CC510226	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.824670e-10
+sub-CC510237	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.811620e-10
+sub-CC510242	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.079308e-10
+sub-CC510243	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.938702e-11
+sub-CC510255	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.492813e-11
+sub-CC510258	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.848143e-11
+sub-CC510259	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.807596e-10
+sub-CC510284	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.234492e-11
+sub-CC510304	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.878549e-10
+sub-CC510323	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.012821e-10
+sub-CC510329	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.015803e-11
+sub-CC510342	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.350605e-11
+sub-CC510354	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	3.629897e-10
+sub-CC510355	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.341884e-10
+sub-CC510392	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.000084e-10
+sub-CC510395	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.092293e-10
+sub-CC510415	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.885651e-10
+sub-CC510433	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.764321e-11
+sub-CC510434	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.176222e-11
+sub-CC510438	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.124780e-10
+sub-CC510473	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.275451e-10
+sub-CC510483	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.623641e-11
+sub-CC510486	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.446502e-10
+sub-CC510534	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.731271e-11
+sub-CC510548	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.394767e-11
+sub-CC510551	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.529133e-11
+sub-CC510609	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	3.091168e-10
+sub-CC510629	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.259568e-10
+sub-CC510639	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.799474e-10
+sub-CC510648	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.685388e-11
+sub-CC520002	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.509883e-10
+sub-CC520011	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.570342e-11
+sub-CC520013	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.133185e-10
+sub-CC520042	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.625042e-11
+sub-CC520055	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.361906e-10
+sub-CC520065	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	3.382774e-10
+sub-CC520083	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.259423e-10
+sub-CC520097	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.311113e-11
+sub-CC520127	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.559833e-10
+sub-CC520134	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.759316e-10
+sub-CC520136	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.328527e-10
+sub-CC520147	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.817741e-10
+sub-CC520168	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.986644e-11
+sub-CC520200	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.159067e-11
+sub-CC520209	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.148811e-10
+sub-CC610022	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.216273e-11
+sub-CC610028	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.849911e-11
+sub-CC610039	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.872466e-11
+sub-CC610040	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.707220e-10
+sub-CC610046	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.345703e-10
+sub-CC610050	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.672615e-10
+sub-CC610052	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.838411e-11
+sub-CC610058	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.926597e-11
+sub-CC610061	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.637206e-10
+sub-CC610071	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.228074e-10
+sub-CC610099	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.364145e-10
+sub-CC610101	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.843993e-10
+sub-CC610146	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.560984e-11
+sub-CC610178	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.090420e-10
+sub-CC610210	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.683552e-10
+sub-CC610212	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.474799e-10
+sub-CC610227	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.139127e-10
+sub-CC610288	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.099621e-11
+sub-CC610292	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.038253e-10
+sub-CC610344	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.973708e-11
+sub-CC610372	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.011060e-10
+sub-CC610392	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.554550e-10
+sub-CC610469	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.727845e-11
+sub-CC610496	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.840469e-11
+sub-CC610508	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.648667e-11
+sub-CC610568	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.862632e-10
+sub-CC610575	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.600915e-11
+sub-CC610576	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.132098e-11
+sub-CC610594	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.498910e-10
+sub-CC610625	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.567972e-11
+sub-CC610653	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.676044e-11
+sub-CC610671	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.487680e-11
+sub-CC620005	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	3.801414e-11
+sub-CC620085	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.841411e-11
+sub-CC620090	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.800375e-10
+sub-CC620106	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	3.483578e-11
+sub-CC620114	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.207542e-10
+sub-CC620118	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.109166e-10
+sub-CC620121	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.916866e-10
+sub-CC620129	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.279247e-11
+sub-CC620152	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	2.168677e-10
+sub-CC620164	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.169335e-10
+sub-CC620259	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.824790e-11
+sub-CC620279	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.015400e-10
+sub-CC620406	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.969144e-11
+sub-CC620413	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.357144e-10
+sub-CC620429	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.768180e-11
+sub-CC620479	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.377883e-11
+sub-CC620499	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.219373e-11
+sub-CC620785	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.176692e-11
+sub-CC710037	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.906142e-11
+sub-CC710154	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.923961e-11
+sub-CC710214	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.328901e-10
+sub-CC710313	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.731552e-11
+sub-CC710342	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.883927e-11
+sub-CC710382	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.024459e-11
+sub-CC710462	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.577202e-11
+sub-CC710486	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.471149e-10
+sub-CC710548	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.310200e-11
+sub-CC710566	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.229003e-11
+sub-CC710591	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.011745e-11
+sub-CC710664	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.766578e-11
+sub-CC710982	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.101766e-10
+sub-CC711035	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.012474e-10
+sub-CC711128	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.197698e-10
+sub-CC711158	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.071363e-10
+sub-CC711245	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.641707e-10
+sub-CC712027	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.070643e-11
+sub-CC720023	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.586745e-11
+sub-CC720071	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.273877e-11
+sub-CC720103	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.028450e-10
+sub-CC720119	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.424030e-10
+sub-CC720188	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.288931e-10
+sub-CC720304	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.329036e-11
+sub-CC720358	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.842729e-10
+sub-CC720400	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.987300e-11
+sub-CC720407	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.258758e-10
+sub-CC720497	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.606688e-11
+sub-CC720511	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.268802e-10
+sub-CC720516	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.377013e-11
+sub-CC720622	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.576713e-10
+sub-CC720646	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.252484e-11
+sub-CC720670	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	5.010300e-11
+sub-CC720685	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.341944e-10
+sub-CC721114	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.940474e-11
+sub-CC721224	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.261551e-10
+sub-CC721291	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.243295e-10
+sub-CC721292	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.233463e-11
+sub-CC721374	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.164089e-10
+sub-CC721392	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.402948e-10
+sub-CC721418	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	6.374056e-11
+sub-CC721434	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	4.796683e-11
+sub-CC721504	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.027530e-10
+sub-CC721519	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.834496e-11
+sub-CC721532	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	7.214218e-11
+sub-CC721585	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	9.408764e-11
+sub-CC721707	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.408029e-10
+sub-CC721894	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.052891e-10
+sub-CC722542	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	8.607198e-11
+sub-CC722651	ses-rest_meg_ses-rest_task-rest_proc-sss	power	Beta2	abs_mean	1.349590e-10
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
