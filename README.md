@@ -22,6 +22,6 @@ Data
 Analysis steps
 
 1. Pre-processing of single subject MEG data using the script 'cs_process_subject_neuromag.m' 
-2. Export processed MEG and cortical thickness measures for statistical analyses (vertex-level and globally) using the scripts 'cs_export_metrics_all_subj.m' and 'cs_export_thickness.m'
-3. Save demographics of the individuals included using 'cs_save_demographics.m'
+2. Export processed MEG and cortical thickness measures for statistical analyses (vertex-level and globally) using the scripts 'cs_export_metrics_all_subj.m' and 'cs_export_thickness.m' in /scripts
+3. Save demographics of the individuals included using 'cs_save_demographics.m' in /scripts
 4. For statistical analyses as described in the pre-print and plotting the figures use 'cs_statistics_and_visualization.m' 
