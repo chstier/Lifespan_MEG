@@ -1,6 +1,7 @@
 MIT License
 
 Original work Copyright (c) 2018 Aaron Alexander-Bloch
+
 Modified work Copyright (c) 2022 Christina Stier
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
