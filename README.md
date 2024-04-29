@@ -2,9 +2,10 @@
 
 Analysis of age effects on MEG-derived markers and cortical thickness in an adult lifespan sample 
 
-A pre-print describing the analysis and the results can be accessed through XX.
+Reference: Stier, C., Braun, C., & Focke, N. K. (2023). Adult lifespan trajectories of neuromagnetic signals and interrelations with cortical thickness. NeuroImage, 278, 120275.
+https://doi.org/10.1016/j.neuroimage.2023.120275
 
-The provided repository contains all relevant scripts and main results but requires some external tools that need to be either placed in the Matlab path, included in the scripts/utilities directory, or in the R path.
+The provided repository contains all relevant scripts and main results but requires some external tools that need to be either placed in the Matlab path, included in the scripts/utilities directory, or the R path.
 
 External tools
 
